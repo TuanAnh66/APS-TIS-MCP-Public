@@ -1,0 +1,4 @@
+mcp==2.3.0
+cryptography==46.0.7
+PyJWT==2.15.1
+pytest==9.2.0
